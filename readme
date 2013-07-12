@@ -1,0 +1,19 @@
+/*
+Vasim & Kenny
+Operating System Project - Summer 2013
+
+This file is menu file for to display when help command called
+*/
+
+    cd <directory> - Change the current default directory to <directory>. If the <directory> argument is not present, repo\
+rt the current directory. If the directory does not exist an appropriate error should be reported.
+    clr - Clear the screen.
+    dir <directory> - List the contents of directory <directory>.
+    echo <comment> - Display <comment> on the display followed by a new line (multiple spaces/tabs may be reduced to a sin\
+gle space).
+    help - Display the user manual using the more filter.
+    pause - Pause operation of the shell until 'Enter' is pressed.
+    quit - Quit the shell.
+
+
+
